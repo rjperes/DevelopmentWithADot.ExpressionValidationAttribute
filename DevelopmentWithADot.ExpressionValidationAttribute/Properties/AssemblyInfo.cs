@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("a")]
+[assembly: AssemblyTitle("DevelopmentWithADot.ExpressionValidationAttribute")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("a")]
+[assembly: AssemblyProduct("DevelopmentWithADot.ExpressionValidationAttribute")]
 [assembly: AssemblyCopyright("Copyright © Ricardo Peres 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
